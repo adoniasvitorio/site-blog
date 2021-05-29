@@ -14,7 +14,8 @@ Aqui não vamos considerar casos onde falhas humanas ou de segurança tornaram e
 Os filmes sempre retrataram ataques cibernéticos como pessoas ou grupo de pessoas interessadas em derrubar governos, atacar grandes corporações, ou só destruir o mundo mesmo, rsr. Mas, na vida real por outro lado, o que sempre ouvimos são noticias de pessoas que tiveram suas contas do Twitter, Instagram, Facebook ou e-mail invadidas. Ou nos piores casos, informações bancarias roubadas, números de cartões adquiridos, documentos de identificação pessoal e por ai vai.
 
 **Então, como me proteger deste tipo de ataque ?**\
-Comece criando senhas fortes ! Eu sei que isso parece obvio mas a maioria das pessoas utiliza senhas extremamente simples ou com pouca segurança. Neste link você pode consultar uma lista das [senhas mais utilizadas em 2020](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). Uma senha simples e comum torna o trabalho dos hackers muito mais fácil, eles podem se utilizar de programas que inserem e testam centenas destas senhas por segundo e pronto.\
+Comece criando senhas fortes ! Eu sei que isso parece obvio mas a maioria das pessoas utiliza senhas extremamente simples ou com pouca segurança. Um exemplo disso pode ser visto neste link com uma lista das [senhas mais utilizadas em 2020](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords). \
+Uma senha simples torna o trabalho dos hackers muito mais fácil, eles podem se utilizar de engenharia social ou até programas que inserem e testam centenas destas senhas por segundo e pronto.\
 \
 **Tem duvida de como criar senhas fortes ?** \
 Existem algumas medidas podem ser tomadas para garantir um mínimo de segurança. Aqui vai algumas dicas.
@@ -35,7 +36,7 @@ Uma alternativa fortemente recomendada é a utilização de um **Gerenciador de 
 Não é minha intenção sugerir nenhuma em especifico mas garanto que são alternativas realmente boas.\
 \
 **É possível saber se fui vitima de um vazamento de dados?**\
-Uma ferramenta que descobri recentemente e que é muito interessante é o [Firefox Monitor](https://monitor.firefox.com/). Com ele você pode consultar se seus dados já foram coletados em algum dos vazamentos no passado ou, ativar a ferramenta de monitor para te enviar alertas caso suas informações apareçam em um vazamento atual.\
+Uma ferramenta que descobri recentemente e que é muito interessante é o [Firefox Monitor](https://monitor.firefox.com/). Com ele você pode consultar se seus dados já foram coletados em alguns dos vazamentos no passado ou, ativar uma ferramenta de monitor para te enviar alertas caso suas informações apareçam em um vazamento atual.\
 \
 Pra terminar vou deixar como sugestão a pagina [Dicas de Segurança](https://monitor.firefox.com/security-tips) do [Firefox Monitor](https://monitor.firefox.com/). Além de detalhar mais alguns dos itens que abordei também complementa com outras informações sobre esse universo.\
 \
